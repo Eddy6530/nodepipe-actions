@@ -1,0 +1,35 @@
+name: nodepipe-update
+
+on:
+  schedule:
+    # UTC 时间 = 北京时间 9:00 / 21:00（可自行增减）
+    - cron: '0 1,13 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install deps
+        run: pip install pyyaml
+
+      - name: Run pipeline (collect -> render -> push gist)
+        env:
+          GIST_TOKEN: ${{ secrets.GIST_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python pipeline.py
+
+      - name: Keepalive (防 60 天无活动被停用)
+        uses: gautamkrishnar/keepalive-workflow@v2

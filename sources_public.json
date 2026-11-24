@@ -1,0 +1,562 @@
+{
+  "github_raw": [
+    {
+      "id": "mah-eternity",
+      "url": "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/Eternity.yml",
+      "kind": "auto",
+      "enabled": true,
+      "trust": 1.0,
+      "note": ""
+    },
+    {
+      "id": "zhuhaiuk",
+      "url": "https://raw.githubusercontent.com/zhuhaiuk/free-nodes/main/clash_config.yaml",
+      "kind": "auto",
+      "enabled": true,
+      "trust": 1.0,
+      "note": ""
+    },
+    {
+      "id": "zhuhaiuk-extra",
+      "url": "https://raw.githubusercontent.com/zhuhaiuk/free-nodes/main/extra_clash_config.yaml",
+      "kind": "auto",
+      "enabled": true,
+      "trust": 1.0,
+      "note": ""
+    },
+    {
+      "id": "snl-extra",
+      "url": "https://raw.githubusercontent.com/SnapdragonLee/SystemProxy/master/dist/clash_config_extra.yaml",
+      "kind": "auto",
+      "enabled": true,
+      "trust": 0.9,
+      "note": ""
+    },
+    {
+      "id": "pawdroid-sub",
+      "url": "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub",
+      "kind": "uri_b64",
+      "enabled": true,
+      "trust": 0.5,
+      "note": ""
+    },
+    {
+      "id": "daily-free-vpn",
+      "url": "https://raw.githubusercontent.com/cbusifabcap/daily_free_vpn/main/Z.txt",
+      "kind": "uri_b64",
+      "enabled": true,
+      "trust": 0.5,
+      "note": "2026-11-13 验证 190 节点解析成功，官方TG频道 daily_free_vpn"
+    },
+    {
+      "id": "ermaozi",
+      "url": "https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml",
+      "kind": "auto",
+      "enabled": true,
+      "trust": 0.7,
+      "note": "2026-11-13 验证 182 节点解析成功，老牌每日自动更新仓库"
+    },
+    {
+      "id": "peasoft-meta",
+      "url": "https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.meta.yml",
+      "kind": "auto",
+      "enabled": false,
+      "trust": 0.1,
+      "note": "2026-11-13 实测活跃率0.7%，剔除但保留台账"
+    },
+    {
+      "id": "nodesfree-pages",
+      "url": "https://nodesfree.github.io/v2raynode/subscribe/v2ray.txt",
+      "kind": "sub_url",
+      "enabled": true,
+      "trust": 0.5,
+      "note": "2026-11-14 验证：GitHub Pages 公开订阅，直连可达；仓库 nodesfree/v2raynode 附带机场页 jichang/"
+    },
+    {
+      "id": "FreeNodes",
+      "repo": "Barabama/FreeNodes",
+      "url": "https://raw.githubusercontent.com/Barabama/FreeNodes/main/config.yaml",
+      "kind": "auto",
+      "enabled": true,
+      "trust": 0.3,
+      "discovered": true,
+      "note": ""
+    },
+    {
+      "id": "V2Ray_configs_64",
+      "repo": "WLget/V2Ray_configs_64",
+      "url": "https://raw.githubusercontent.com/WLget/V2Ray_configs_64/master/ConfigSub_list.txt",
+      "kind": "auto",
+      "enabled": true,
+      "trust": 0.3,
+      "discovered": true,
+      "note": ""
+    },
+    {
+      "id": "MetaFetch",
+      "repo": "lanzm/MetaFetch",
+      "url": "https://raw.githubusercontent.com/lanzm/MetaFetch/master/config.yaml",
+      "kind": "auto",
+      "enabled": true,
+      "trust": 0.3,
+      "discovered": true,
+      "note": ""
+    },
+    {
+      "id": "clashfree",
+      "repo": "free-nodes/clashfree",
+      "url": "https://raw.githubusercontent.com/free-nodes/clashfree/main/clash20261109.yml",
+      "kind": "auto",
+      "enabled": true,
+      "trust": 0.3,
+      "discovered": true,
+      "note": ""
+    },
+    {
+      "id": "LatinaSub",
+      "repo": "LalatinaHub/LatinaSub",
+      "url": "https://raw.githubusercontent.com/LalatinaHub/LatinaSub/main/blacklist.txt",
+      "kind": "auto",
+      "enabled": false,
+      "trust": 0.3,
+      "discovered": true,
+      "note": " | 2026-11-19 禁用：文件实为blacklist.txt节点黑名单（非节点列表），7.3MB带宽白耗"
+    },
+    {
+      "id": "free-node",
+      "repo": "HakurouKen/free-node",
+      "url": "https://raw.githubusercontent.com/HakurouKen/free-node/main/pnpm-lock.yaml",
+      "kind": "auto",
+      "enabled": true,
+      "trust": 0.3,
+      "discovered": true,
+      "note": ""
+    },
+    {
+      "id": "FreeSubsCheck",
+      "repo": "kooker/FreeSubsCheck",
+      "url": "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/all.yaml",
+      "kind": "auto",
+      "enabled": true,
+      "trust": 0.3,
+      "discovered": true,
+      "note": ""
+    },
+    {
+      "id": "free",
+      "repo": "shaoyouvip/free",
+      "url": "https://raw.githubusercontent.com/shaoyouvip/free/main/GithubProxytest.txt",
+      "kind": "auto",
+      "enabled": true,
+      "trust": 0.3,
+      "discovered": true,
+      "note": ""
+    },
+    {
+      "id": "subseek",
+      "repo": "twj0/subseek",
+      "url": "https://raw.githubusercontent.com/twj0/subseek/master/docker-compose.yml",
+      "kind": "auto",
+      "enabled": true,
+      "trust": 0.3,
+      "discovered": true,
+      "note": ""
+    },
+    {
+      "id": "node",
+      "repo": "share-daily/node",
+      "url": "https://raw.githubusercontent.com/share-daily/node/main/clash.yaml",
+      "kind": "auto",
+      "enabled": true,
+      "trust": 0.3,
+      "discovered": true,
+      "note": ""
+    },
+    {
+      "id": "free-nodes",
+      "repo": "VoroninaYanina/free-nodes",
+      "url": "https://raw.githubusercontent.com/VoroninaYanina/free-nodes/main/LICENSE.txt",
+      "kind": "auto",
+      "enabled": true,
+      "trust": 0.3,
+      "discovered": true,
+      "note": ""
+    },
+    {
+      "id": "free-nodes",
+      "repo": "free-proxy-nodes/free-nodes",
+      "url": "https://raw.githubusercontent.com/free-proxy-nodes/free-nodes/main/LICENSE.txt",
+      "kind": "auto",
+      "enabled": true,
+      "trust": 0.3,
+      "discovered": true,
+      "note": ""
+    },
+    {
+      "id": "kaorouyun",
+      "url": "https://dy01.kaorouyun.com/kaorou/47e1ef4afc9c24689de023b9a6abe3d0",
+      "kind": "sub_url",
+      "enabled": false,
+      "trust": 0.2,
+      "note": "2026-11-16 注册试用(2GB)，2026-11-19 00:06:38 到期。2026-11-18 用户拍板不续费（双十一8折也不考虑）。订阅链接保留备用：若机场复活/再送试用可重新启用。域名被墙需代理在线拉取。凭据见本地(已删) / <密码已删>"
+    },
+    {
+      "id": "free-nodes",
+      "repo": "xyfqzy/free-nodes",
+      "url": "https://raw.githubusercontent.com/xyfqzy/free-nodes/main/ppt.txt",
+      "kind": "auto",
+      "enabled": true,
+      "trust": 0.3,
+      "discovered": true,
+      "note": ""
+    },
+    {
+      "id": "free18-v2ray",
+      "repo": "free18/v2ray",
+      "url": "https://raw.githubusercontent.com/free18/v2ray/main/README.md",
+      "kind": "auto",
+      "enabled": true,
+      "trust": 0.4,
+      "discovered": true,
+      "note": "2026-11-19 搜索发现,★5941每日更新分享免费节点/机场,分支待验证"
+    },
+    {
+      "id": "jichang-hshjmm",
+      "repo": "hshjmm/jichang",
+      "url": "https://raw.githubusercontent.com/hshjmm/jichang/main/README.md",
+      "kind": "auto",
+      "enabled": true,
+      "trust": 0.3,
+      "discovered": true,
+      "note": "2026-11-19 搜索发现,★78机场推荐收录页,挖试用机场线索+README可能嵌节点"
+    },
+    {
+      "id": "panda-vpn",
+      "repo": "DiningFactory/panda-vpn-pro",
+      "url": "https://raw.githubusercontent.com/DiningFactory/panda-vpn-pro/main/README.md",
+      "kind": "auto",
+      "enabled": true,
+      "trust": 0.3,
+      "discovered": true,
+      "note": "2026-11-19 搜索发现,★18038机场推荐页"
+    },
+    {
+      "id": "free-ssr-clash",
+      "repo": "free-ssr-clash/free-ssr-clash.github.io",
+      "url": "https://raw.githubusercontent.com/free-ssr-clash/free-ssr-clash.github.io/main/README.md",
+      "kind": "auto",
+      "enabled": true,
+      "trust": 0.3,
+      "discovered": true,
+      "note": "2026-11-19 搜索发现,★29每日分享站(同模板批量站之一,先测)"
+    },
+    {
+      "id": "clash-v2ray-io",
+      "repo": "clash-v2ray/clash-v2ray.github.io",
+      "url": "https://raw.githubusercontent.com/clash-v2ray/clash-v2ray.github.io/main/README.md",
+      "kind": "auto",
+      "enabled": true,
+      "trust": 0.3,
+      "discovered": true,
+      "note": "2026-11-19 搜索发现,★14每日分享站(同模板批量站之一,先测)"
+    },
+    {
+      "id": "zyfxs-c",
+      "repo": "ZYFXS/ZYFXS001",
+      "url": "ZYFXS/ZYFXS001",
+      "kind": "rolling:C",
+      "enabled": true,
+      "trust": 0.5,
+      "note": "2026-11-19 用户提供(称免费且快)。滚动日期文件名{date}C/--youtube@ZYFXS(管线{date}占位符自动展开当天日)。十进制ASCII字节流混淆,11-19实测92节点48存活,最快359ms | 2026-11-21 改rolling类型:文件名格式每天乱变(19C- / 20C- / --21C),改为contents API列目录动态找含当天日期的C文件"
+    },
+    {
+      "id": "zyfxs-v",
+      "repo": "ZYFXS/ZYFXS001",
+      "url": "ZYFXS/ZYFXS001",
+      "kind": "rolling:V",
+      "enabled": true,
+      "trust": 0.5,
+      "note": "2026-11-19 用户提供。滚动日期V版(URI形态),同上混淆解码 | 2026-11-21 同上改rolling"
+    },
+    {
+      "id": "sfc-ccwu",
+      "url": "https://sfc.twpp.ccwu.cc/YouTube/dnnE18/c.yaml",
+      "kind": "auto",
+      "enabled": true,
+      "trust": 0.4,
+      "note": "2026-11-19 用户提供(用户称快但死得快需常更新)。本机直连被墙(连接重置),需代理在线拉取;URL中dnnE18疑似滚动批次,拉取失败时需人工查最新批次号"
+    },
+    {
+      "id": "free18-c",
+      "repo": "free18/v2ray",
+      "url": "https://raw.githubusercontent.com/free18/v2ray/main/c.yaml",
+      "kind": "auto",
+      "enabled": true,
+      "trust": 0.6,
+      "note": "2026-11-19 主动发现★5941仓库。固定路径c.yaml每天自动更新,11-19实测316节点(170vless+46vmess+100trojan)142KB完整Clash配置——健康源标准形态"
+    },
+    {
+      "id": "free18-v",
+      "repo": "free18/v2ray",
+      "url": "https://raw.githubusercontent.com/free18/v2ray/main/v.txt",
+      "kind": "auto",
+      "enabled": true,
+      "trust": 0.5,
+      "note": "2026-11-19 同上,v.txt为URI形态(123KB)"
+    },
+    {
+      "id": "ripaojiedian-sub",
+      "repo": "ripaojiedian/freenode",
+      "url": "https://raw.githubusercontent.com/ripaojiedian/freenode/main/sub",
+      "kind": "auto",
+      "enabled": true,
+      "trust": 0.4,
+      "note": "2026-11-19 来自learnLi聚合器源清单(同行验证)"
+    },
+    {
+      "id": "ripaojiedian-clash",
+      "repo": "ripaojiedian/freenode",
+      "url": "https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash",
+      "kind": "auto",
+      "enabled": true,
+      "trust": 0.4,
+      "note": "同上clash形态"
+    },
+    {
+      "id": "passcro-speednodes",
+      "repo": "zhangkaiitugithub/passcro",
+      "url": "https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/speednodes.yaml",
+      "kind": "auto",
+      "enabled": true,
+      "trust": 0.4,
+      "note": "测速筛选源(learnLi清单)"
+    },
+    {
+      "id": "shaoyouvip-all",
+      "repo": "shaoyouvip/free",
+      "url": "https://raw.githubusercontent.com/shaoyouvip/free/refs/heads/main/all.yaml",
+      "kind": "auto",
+      "enabled": true,
+      "trust": 0.4,
+      "note": "learnLi清单"
+    },
+    {
+      "id": "lagzian-sscollector",
+      "repo": "lagzian/SS-Collector",
+      "url": "https://raw.githubusercontent.com/lagzian/SS-Collector/main/configs/subscription-all.b64",
+      "kind": "auto",
+      "enabled": true,
+      "trust": 0.4,
+      "note": "learnLi清单,b64形态"
+    },
+    {
+      "id": "alvin9999-g1",
+      "url": "https://gitlab.com/free9999/ipupdate/-/raw/master/backup/img/1/2/ipp/clash.meta2/1/config.yaml",
+      "kind": "auto",
+      "enabled": true,
+      "trust": 0.3,
+      "note": "Alvin9999 GitLab镜像,gitlab直连试探"
+    },
+    {
+      "id": "alvin9999-g3",
+      "url": "https://gitlab.com/free9999/ipupdate/-/raw/master/backup/img/1/2/ipp/clash.meta2/3/config.yaml",
+      "kind": "auto",
+      "enabled": true,
+      "trust": 0.3,
+      "note": "同上"
+    },
+    {
+      "id": "tgparse-hy2",
+      "repo": "Surfboardv2ray/TGParse",
+      "url": "https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/python/hy2",
+      "kind": "auto",
+      "enabled": true,
+      "trust": 0.4,
+      "note": "TG解析hy2节点"
+    },
+    {
+      "id": "tgparse-hysteria2",
+      "repo": "Surfboardv2ray/TGParse",
+      "url": "https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/python/hysteria2",
+      "kind": "auto",
+      "enabled": true,
+      "trust": 0.4,
+      "note": "TG解析hysteria2节点"
+    },
+    {
+      "id": "proxypool-v2ray2",
+      "repo": "snakem982/proxypool",
+      "url": "https://raw.githubusercontent.com/snakem982/proxypool/main/source/v2ray-2.txt",
+      "kind": "auto",
+      "enabled": true,
+      "trust": 0.6,
+      "note": "★2286大项目proxypool的输出,v2ray形态"
+    },
+    {
+      "id": "proxypool-clashmeta2",
+      "repo": "snakem982/proxypool",
+      "url": "https://raw.githubusercontent.com/snakem982/proxypool/main/source/clash-meta-2.yaml",
+      "kind": "auto",
+      "enabled": true,
+      "trust": 0.6,
+      "note": "同上clash-meta形态"
+    },
+    {
+      "id": "zixf-base64",
+      "repo": "chenzhihan1751-cyber/node-sub-zixf",
+      "url": "https://raw.githubusercontent.com/chenzhihan1751-cyber/node-sub-zixf/main/sub/base64.txt",
+      "kind": "auto",
+      "enabled": true,
+      "trust": 0.5,
+      "note": "6小时聚合9个公开源+TCP存活检测,learnLi实测1793节点b64"
+    },
+    {
+      "id": "matinghanbari-supersub",
+      "repo": "MatinGhanbari/v2ray-configs",
+      "url": "https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/super-sub.txt",
+      "kind": "auto",
+      "enabled": true,
+      "trust": 0.4,
+      "note": "独立源200节点,learnLi标注零重叠"
+    },
+    {
+      "id": "sharecentre-sub",
+      "url": "https://sub.sharecentre.online/sub",
+      "kind": "auto",
+      "enabled": true,
+      "trust": 0.3,
+      "note": "老牌公共聚合端点试探"
+    },
+    {
+      "id": "propcf-b64",
+      "url": "https://prop.cf/?name=paimon&client=base64",
+      "kind": "auto",
+      "enabled": true,
+      "trust": 0.3,
+      "note": "公共聚合短链试探"
+    },
+    {
+      "id": "propcf-clash",
+      "url": "https://prop.cf/?name=paimon&client=clash",
+      "kind": "auto",
+      "enabled": true,
+      "trust": 0.3,
+      "note": "同上clash形态"
+    },
+    {
+      "id": "paiyt-clash",
+      "url": "https://pai.yt/clash",
+      "kind": "auto",
+      "enabled": true,
+      "trust": 0.3,
+      "note": "聚合短链试探(learnLi标注ignore ss/ssr/anytls)"
+    },
+    {
+      "id": "nodefree-txt",
+      "url": "https://nodefree.org/dy/{Y}/{m}/{ymd}.txt",
+      "kind": "auto",
+      "enabled": true,
+      "trust": 0.5,
+      "note": "nodefree.org知名每日节点站,{ymd}占位符自动当天。learnLi清单未注释=启用"
+    },
+    {
+      "id": "nodefree-yaml",
+      "url": "https://nodefree.org/dy/{Y}/{m}/{ymd}.yaml",
+      "kind": "auto",
+      "enabled": true,
+      "trust": 0.5,
+      "note": "同上clash形态"
+    },
+    {
+      "id": "v2rayshare-txt",
+      "url": "https://v2rayshare.com/wp-content/uploads/{Y}/{m}/{ymd}.txt",
+      "kind": "auto",
+      "enabled": true,
+      "trust": 0.2,
+      "note": "learnLi标注!国内拉不了,代理在线时拉取"
+    },
+    {
+      "id": "abshare.github.io",
+      "repo": "abshare/abshare.github.io",
+      "url": "https://raw.githubusercontent.com/abshare/abshare.github.io/main/_config.yml",
+      "kind": "auto",
+      "enabled": true,
+      "trust": 0.3,
+      "discovered": true,
+      "note": ""
+    },
+    {
+      "id": "mafly",
+      "repo": "mhmdxahmd/mafly",
+      "url": "https://raw.githubusercontent.com/mhmdxahmd/mafly/main/httpproxy.txt",
+      "kind": "auto",
+      "enabled": true,
+      "trust": 0.3,
+      "discovered": true,
+      "note": ""
+    }
+  ],
+  "telegram_channels": {
+    "_说明": "种子为空时靠自动发现（从已抓内容里抠 t.me 链接），发现的频道 trust=0，抓到活节点才升信誉",
+    "seeds": [
+      "BgoAdmin",
+      "BgoGameBot",
+      "BgoRobot",
+      "BgoTM",
+      "BgooBot",
+      "GPTprochat",
+      "JISOU",
+      "LonUp_M",
+      "OutlineReleasedKey",
+      "SOSkeyNET",
+      "SearchReport",
+      "TAndroidAPK",
+      "UTBOT",
+      "UTbot",
+      "UTkfbot",
+      "UTqianbao",
+      "V2ray_Collector",
+      "begoo",
+      "clashjd",
+      "dns68",
+      "dns68_jd_bot",
+      "durov",
+      "hhhbot",
+      "jisou",
+      "jisou0",
+      "jisou1",
+      "jisou1234",
+      "jisou2",
+      "jisou3",
+      "kittythenight",
+      "linkduni",
+      "pmlogs",
+      "projectVless",
+      "projectXhttp",
+      "projectXray",
+      "projectXtls",
+      "shadownrocket",
+      "souws",
+      "utbot",
+      "utqianbao",
+      "v2ray3",
+      "v2ray_configs_pools",
+      "v2raydy",
+      "vvkj1",
+      "vvkj11",
+      "webproxy"
+    ],
+    "discover": true,
+    "fetch_max": 12
+  },
+  "github_search": {
+    "keywords": [
+      "v2ray free nodes",
+      "clash subscribe free",
+      "免费节点 clash",
+      "free vless reality"
+    ],
+    "discover_max": 2,
+    "min_stars": 5
+  }
+}
