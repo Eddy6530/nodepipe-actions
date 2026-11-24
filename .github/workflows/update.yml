@@ -30,6 +30,3 @@ jobs:
           GIST_TOKEN: ${{ secrets.GIST_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python pipeline.py
-
-      - name: Keepalive (防 60 天无活动被停用)
-        uses: gautamkrishnar/keepalive-workflow@v2
